@@ -69,49 +69,8 @@ Start the server
   python3 manage.py runserver
 ```
 
-## Screenshots
-
-#### The Home
-
-<img width="1676" alt="home" src="">
-
-#### The Question Category
-
-<img width="1680" alt="question category" src="">
-
-#### The Question Paper
-
-<img width="1680" alt="Question set" src="">
-
-#### The Exam
-
-<img width="1436" alt="exam" src="">
-
-#### The Question
-
-<img width="1680" alt="question" src="">
-
-#### The Courses
-
-<img width="1680" alt="courseBuy" src="">
-
-#### The payment method
-
-<img width="1680" alt="payment" src="">
-
-#### The Admin panel
-
-<img width="1678" alt="admin-panel" src="">
-
-#### Course Adding Feature
-
-<img width="1679" alt="courses" src="">
 
 ## FAQ
-
-#### Is Bkash Nagad avilable to purchase a course?
-
--   Yes, SSLCommerz intigrated here. so yeah all payments methods are available.
 
 #### Is everyone can see their profile?
 
